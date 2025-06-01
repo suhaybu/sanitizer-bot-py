@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This project has been archived in favor for the Rust rewrite which can be found here: [/sanitizer-bot](https://github.com/suhaybu/sanitizer-bot)
 > 
-> This repo is be no longer maintained or updated.
+> This repo is no longer maintained.
 
 # Sanitizer Bot (Python)
 
